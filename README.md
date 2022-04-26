@@ -1,1 +1,3 @@
-# psi2
+# podstawy sztucznej inteligencji
+# Karolina Węgrzyn
+# 1164604
